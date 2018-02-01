@@ -1,0 +1,11 @@
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\bin\Debug\Calculation.exe
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\bin\Debug\Calculation.pdb
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\bin\Debug\Calculation.exe.config
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb

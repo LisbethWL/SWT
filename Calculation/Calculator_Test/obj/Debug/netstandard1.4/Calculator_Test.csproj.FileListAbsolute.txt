@@ -1,0 +1,5 @@
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator_Test\bin\Debug\netstandard1.4\Calculator_Test.deps.json
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator_Test\bin\Debug\netstandard1.4\Calculator_Test.dll
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator_Test\obj\Debug\netstandard1.4\Calculator_Test.csprojResolveAssemblyReference.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator_Test\obj\Debug\netstandard1.4\Calculator_Test.csproj.CoreCompileInputs.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculator_Test\obj\Debug\netstandard1.4\Calculator_Test.AssemblyInfo.cs

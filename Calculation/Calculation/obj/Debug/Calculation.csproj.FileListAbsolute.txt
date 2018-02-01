@@ -1,0 +1,11 @@
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1.1\Calculation\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1.1\Calculation\Calculation\bin\Debug\Calculation.exe
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1.1\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1.1\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1.1\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1.1\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1.1\Calculation\Calculation\obj\Debug\Calculation.pdb
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\obj\Debug\Calculation.csprojResolveAssemblyReference.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\obj\Debug\Calculation.pdb
