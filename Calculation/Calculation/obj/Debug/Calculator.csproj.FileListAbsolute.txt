@@ -4,3 +4,10 @@ C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\obj\Deb
 C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\bin\Debug\Calculation.exe.config
 C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\bin\Debug\Calculation.exe
 C:\Users\caing\Dropbox\IKT\Semester_4\I4SWT\L1_1\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\caing\Source\Repos\SWT\Calculation\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\caing\Source\Repos\SWT\Calculation\Calculation\bin\Debug\Calculation.exe
+C:\Users\caing\Source\Repos\SWT\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\caing\Source\Repos\SWT\Calculation\Calculation\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\caing\Source\Repos\SWT\Calculation\Calculation\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\caing\Source\Repos\SWT\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\Users\caing\Source\Repos\SWT\Calculation\Calculation\obj\Debug\Calculation.pdb
