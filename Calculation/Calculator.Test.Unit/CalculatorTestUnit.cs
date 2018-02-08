@@ -20,11 +20,11 @@ namespace Calculator.Test.Unit
                 Assert.That(uut.Add(2, 4), Is.EqualTo(6));
             }
              [Test]
-            public void Add2And4_Returns6()
+            public void Add2And4_Returns7()
             {
                 var uut = new Calculator();
 
-                Assert.That(uut.Add(2, 4), Is.EqualTo(7));
+                Assert.That(uut.Add(3, 4), Is.EqualTo(7));
             }
             [Test]
             public void Subtract2From4_Returns2()
