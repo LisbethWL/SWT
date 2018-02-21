@@ -59,8 +59,8 @@ namespace RouletteGame.Legacy
             var n = (uint) new Random().Next(0, 37);
             _result = _fields[(int) n];
         }
-
-        public Field GetResult()
+        //ÆNDRING
+        public virtual Field GetResult()
         {
             return _result;
         }

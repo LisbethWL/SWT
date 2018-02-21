@@ -51,8 +51,23 @@ namespace RouletteGame.Legacy
                     Console.WriteLine("{0} just won {1}$ on a {2}", bet.PlayerName, won, bet);
             }
         }
-    }
+#if DEBUG
+        public uint FakePayUp(Bet fakebet)
+        {
+            var result = _roulette.GetResult();
 
+            foreach (var bet in _bets)
+            {
+                var won = bet.WonAmount(result);
+                if (won > 0 && bet == fakebet)
+                    return won;
+
+            }
+
+            return 0;
+        }
+#endif
+    }
     public class RouletteGameException : Exception
     {
         public RouletteGameException(string s) : base(s)
