@@ -96,4 +96,37 @@ namespace RouletteTest
             return _result;
         }
     }
+    [TestFixture]
+    class FieldeTest
+    {
+        [Test]
+        public void ThrowsExceptionIfField37()
+        {
+            const uint bad_input = 37;
+            TestDelegate testDelegate = () => new Field(bad_input, 0);
+            var ex = Assert.Throws<FieldException>(testDelegate);
+        }
+
+        [Test]
+        public void DoesNetThrowIfField36()
+        {
+            const uint good_input = 36;
+            TestDelegate testDelegate = () => new Field(good_input, 1);
+            Assert.DoesNotThrow(testDelegate);
+        }
+
+        [Test]
+        public void ThrowIfFieldGreenAndNot0()
+        {
+            const uint bad_input = 1;
+            TestDelegate testDelegate = () => new Field(bad_input, 2);
+            var ex = Assert.Throws<FieldException>(testDelegate);
+        }
+
+
+
+    }
+
+    
 }
+

@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Test_Roulette;
+using RouletteGame.Legacy;
 
 namespace THE_TEST
 {
-    class test_Roulette : IRoulette
+    class FakeRoulette : IRoulette
     {
         private Field _result = new Field(5, Field.Red);
 
