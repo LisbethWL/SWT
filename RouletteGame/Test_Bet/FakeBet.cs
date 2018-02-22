@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test_Bet
 {
-    class Bet : IBet
+    class FakeBet : IBet
     {
         public string GetPlayerName()
         {

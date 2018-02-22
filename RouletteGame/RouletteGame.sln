@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteTest", "RouletteTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Bet", "Test_Bet\Test_Bet.csproj", "{212DA709-E87C-482D-85D6-4780D9DD2112}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Field", "Test_Field\Test_Field.csproj", "{7446CCBA-59D9-4757-96F1-DE8C7C743DDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{212DA709-E87C-482D-85D6-4780D9DD2112}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{212DA709-E87C-482D-85D6-4780D9DD2112}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{212DA709-E87C-482D-85D6-4780D9DD2112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7446CCBA-59D9-4757-96F1-DE8C7C743DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7446CCBA-59D9-4757-96F1-DE8C7C743DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7446CCBA-59D9-4757-96F1-DE8C7C743DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7446CCBA-59D9-4757-96F1-DE8C7C743DDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
