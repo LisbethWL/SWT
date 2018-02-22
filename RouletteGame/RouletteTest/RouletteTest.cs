@@ -97,8 +97,40 @@ namespace RouletteTest
             return _result;
         }
     }
+    public class FakeRoulette2 : IRoulette
+    {
+        private Field _result = new Field(5, Field.Red);
 
-    
+        public Field GetResult()
+        {
+            return _result;
+        }
+
+        public void spin()
+        {
+            //skal sættes til noget, jeg kan regne med...
+            //jeg kan ikke teste på tilfældigt
+            // test med: 0, 5 og 32
+
+            if (_result.Number == 5)
+            {
+                _result = new Field(31, Field.Black);
+
+            }
+
+            if (_result.Number == 31)
+            {
+                _result = new Field(0, Field.Green);
+            }
+
+            if (_result.Number == 0)
+            {
+                _result = new Field(5, Field.Red);
+            }
+
+        }
+    }
+
     class FieldeTest
     {
         [Test]
