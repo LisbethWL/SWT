@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IRoiulette.cs" />
     <Compile Include="RouletteTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -58,10 +58,6 @@
       <Project>{c3da5cc7-1996-434c-bb05-0a5b6426ec85}</Project>
       <Name>RouletteTest</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Test_Roulette\Test_Roulette.csproj">
-      <Project>{931E9464-6D32-46E2-AD3E-189EA65E3118}</Project>
-      <Name>Test_Roulette</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
