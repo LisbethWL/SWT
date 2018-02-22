@@ -10,6 +10,6 @@ namespace Test_Bet
     {
         string GetPlayerName();
         uint GetAmount();
-        uint WonAmount(Field f);
+        uint WonAmount();
     }
 }

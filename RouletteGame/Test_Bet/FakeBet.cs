@@ -18,7 +18,7 @@ namespace Test_Bet
             throw new NotImplementedException();
         }
 
-        public uint WonAmount(Field f)
+        public uint WonAmount()
         {
             throw new NotImplementedException();
         }
