@@ -97,7 +97,8 @@ namespace RouletteTest
             return _result;
         }
     }
-    [TestFixture]
+
+    
     class FieldeTest
     {
         [Test]
@@ -116,13 +117,13 @@ namespace RouletteTest
             Assert.DoesNotThrow(testDelegate);
         }
 
-        [Test]
-        public void ThrowIfFieldGreenAndNot0()
-        {
-            const uint bad_input = 1;
-            TestDelegate testDelegate = () => new Field(bad_input, 2);
-            var ex = Assert.Throws<FieldException>(testDelegate);
-        }
+        //[Test]
+        //public void ThrowIfFieldGreenAndNot0()
+        //{
+        //    const uint bad_input = 1;
+        //    TestDelegate testDelegate = () => new Field(bad_input, 2);
+        //    var ex = Assert.Throws<FieldException>(testDelegate);
+        //}
 
 
 
