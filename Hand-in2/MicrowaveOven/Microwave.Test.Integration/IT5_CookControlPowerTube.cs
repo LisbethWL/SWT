@@ -73,6 +73,36 @@ namespace Microwave.Test.Integration
             int power = 50;
             output.Received().OutputLine($"PowerTube works with {power} %");
         }
+
+        [Test]
+        public void StartCookingPowerTubeOn_3()
+        {
+            for(int i = 0; i <4; i++)
+            {
+                powerButton.Press();
+                timeButton.Press();
+                startCancelButton.Press();
+                int power = 50;
+                output.Received().OutputLine($"PowerTube works with {power} %");
+            }
+            
+            
+        }
+
+        [Test]
+        public void StartCookingPowerTubeOn_14()
+        {
+            for (int i = 0; i < 15; i++)
+            {
+                powerButton.Press();
+                timeButton.Press();
+                startCancelButton.Press();
+                int power = 50;
+                output.Received().OutputLine($"PowerTube works with {power} %");
+            }
+            
+        }
+
         [Test]
         public void TimerExpiresPowerTubeOff()
         {
