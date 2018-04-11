@@ -11,22 +11,11 @@ namespace ATM_DLL_Test
     {
         static void Main(string[] args)
         {
-            var test = TransponderReceiverFactory.CreateTransponderDataReceiver();
-            test.TransponderDataReady += OnTransponderdataReady;
-
-            for (;;)
-            {
-                
-            }
+            var receiver = new TrackIdentification(TransponderReceiverFactory.CreateTransponderDataReceiver());
+            Console.ReadKey();
         }
 
-        private static void OnTransponderdataReady(object sender, RawTransponderDataEventArgs e)
-        {
-            foreach (var data in e.TransponderData)
-            {
-                Console.WriteLine(data);
-            }
-        }
+        
 
     }
 }
