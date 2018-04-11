@@ -61,7 +61,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="TransponderReceiver, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\OneDrive - Aarhus universitet\4. Semester\PRJ\TransponderReceiver\TransponderReceiver.dll</HintPath>
+      <HintPath>..\..\..\..\..\Documents\UDDANNELSE\IHA\18-Spring\SWT_18\AFLEVERING_3\TransponderReceiver\TransponderReceiver.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
